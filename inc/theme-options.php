@@ -16,9 +16,9 @@ add_action( 'admin_menu', function (): void {
 		__( 'Theme Options', 'estatein' ),
 		'manage_options',
 		'estatein-theme-options',
-		'__return_null',
-		'dashicons-admin-appearance',
-		60
+		'estatein_render_header_options_page',
+		'dashicons-admin-generic',
+		61
 	);
 
 	add_submenu_page(
