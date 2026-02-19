@@ -389,3 +389,11 @@ estatein-theme/
 ## License
 
 This theme is proprietary. All rights reserved.
+
+---
+
+## Screenshot
+
+- [Homepage Desktop View](https://prnt.sc/3cIwnDzmUoti)
+- [Homepage Mobile View 1](https://prnt.sc/OL19ATjz8zdr)
+- [Homepage Mobile View 2](https://prnt.sc/Bn2ZxECzfrcC)
